@@ -14,6 +14,7 @@ Hello <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Premake](https://img.shields.io/badge/Premake-%23008FBA.svg?style=for-the-badge&logo=Lua&logoColor=white)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=etogood&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
