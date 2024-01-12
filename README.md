@@ -1,7 +1,7 @@
 # About Me:
 Hello, I'm Ilya, a software developer
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/419558358098509824/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/419558358098509824/) 
 [![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/etogood)
 
 # Tech Stack:
