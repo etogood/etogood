@@ -1,5 +1,5 @@
 # About Me:
-Hello <img width="30" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966">, I'm Ilya, a software developer
+Hello, I'm Ilya, a software developer
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/419558358098509824/) 
 [![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/etogood)
