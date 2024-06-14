@@ -21,3 +21,5 @@ Hello, I'm Ilya, a software developer
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=etogood&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=etogood&icon=0&color=1)]()
+
+![](https://s11.flagcounter.com/countxl/n05e/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_1/)
