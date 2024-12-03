@@ -1,25 +1,32 @@
-# About Me:
-Hello, I'm Ilya, a software developer
+<div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/419558358098509824/) 
-[![](https://img.shields.io/badge/-Telegram-FFF?&logo=Telegram)](https://t.me/etogood)
+![etogood](https://stats.hyo.dev/api/github-stats-advanced?login=etogood)
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-![OpenGL](https://img.shields.io/badge/opengl-%23white.svg?style=for-the-badge&logo=opengl&logoColor=blue) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Premake](https://img.shields.io/badge/Premake-%23008FBA.svg?style=for-the-badge&logo=Lua&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/419558358098509824/) 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/etogood)
 
+# Skills
+![My Skills](https://skillicons.dev/icons?i=dotnet,cs)
 
-![](https://github-readme-stats.vercel.app/api?username=etogood&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=etogood&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
----
-[![](https://visitcount.itsvg.in/api?id=etogood&icon=0&color=1)]()
+# Technologies
 
-![](https://s11.flagcounter.com/countxl/n05e/bg_FFFFFF/txt_000000/border_CCCCCC/columns_4/maxflags_12/viewers_0/labels_0/pageviews_1/flags_0/percent_1/)
+<table border="0">
+<td>Frameworks</td>
+<td>
+  <img src="https://avatars.githubusercontent.com/u/58937344?v=4" width="50" height="50 alt="AvaloniaUI"">
+  <img src="https://syncfusioninc.gallerycdn.vsassets.io/extensions/syncfusioninc/wpfextension/27.1.48/1726662210436/Microsoft.VisualStudio.Services.Icons.Default" alt="WPF" width="45" height="45">
+</td>
+</tr>
+<td>Database</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql">
+</td>
+</tr>
+<tr>
+<td>Tools</td>
+<td>
+  <img src="https://skillicons.dev/icons?i=rider,git,githubactions">
+</td>
+</tr>
+</table>
+</div> 
